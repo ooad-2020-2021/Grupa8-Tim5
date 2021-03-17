@@ -8,30 +8,35 @@
 
 ## Tema
 
-Ovaj softver je zamišljen kao implementacija jednog turističkog marketplace-a koji će na jednom mjestu okupljati zainteresovane korisnike te turističke agencije i ostale kompanije koje pružaju razne turističke usluge. Zamišljeno je da s jedne strane kompanije/agencije kreiraju i nude svoje usluge/aranžmane da li pojedinačno - npr. smještaj u hotelu - ili u paketima - npr. rezervacija avionskog leta + smještaj u hotelu + rentani automobil + plan puta itd. S druge strane korisnici mogu pregledati ponude te ih kupovati i kombinovati po shopping-cart patternu.
+Turistički marketplace je aplikacija koja će na jednom mjestu okupljati turističke agencije i kompanije te korisnike zainteresovane za turističke usluge. 
+S jedne strane agencije i kompanije će biti u mogućnosti da kreiraju i nude svoje usluge i aranžmane bilo pojedinačno (npr. smještaj u hotelu) ili u paketima 
+(npr. prijevoz + smještaj + rentani automobil + plan puta i sl), dok s druge strane korisnici će moći pregledati ponude te ih kupovati i kombinovati po 
+shopping-cart patternu.
 
 ### Akteri
 
-1. Korisnici
-2. Turističke agencije / kompanije
+1. Turističke agencije / kompanije
+2. Korisnici
 3. Administrator
 
 ## Funkcionalnosti
 
-### Korisnici
-
-- pregled ponuda po nekoliko parametara
-- uređivanje korisničkog profila i gledanje profila drugih korisnika
-- kreiranje svog putovanja na osnovu ponuda
-- mogućnost objavljivanja custom sadržaja na svom profilu u vidu blogpostova i slika uz caption te komentarisanje / lajkovi na korisnički sadržaj drugih profila
-- mogućnost među-korisničke interakcije i preko forum-stil thread-ova
-
 ### Agencije / kompanije
 
-- kreiranje, mijenjanje, brisanje svojih ponuda i paketa, te pregledanje drugih
-- selektivna promocija ponuda / paketa tagovima
+- kreiranje, mijenjanje, brisanje svojih ponuda i usluga, te pregledanje drugih
+- selektivna promocija ponuda / paketa po tagovima
 - kreiranje i uređivanje informativnih sajtova o svojim destinacijama
 - elementarni pregled finansijskog performansa kompanije na sajtu
+
+
+### Korisnici
+
+- pregled ponuda po parametrima
+- uređivanje korisničkog profila i gledanje profila drugih korisnika
+- kreiranje svog putovanja na osnovu ponuda
+- objavljivanje sadržaja na svom profilu u vidu blogpostova i slika te komentarisanje / lajkovi na korisnički sadržaj drugih profila
+- mogućnost među-korisničke interakcije i preko forum-stil thread-ova
+
 
 ### Administrator
 
