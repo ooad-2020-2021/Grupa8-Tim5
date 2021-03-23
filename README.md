@@ -12,7 +12,7 @@ Turistički marketplace je aplikacija koja će na jednom mjestu okupljati turist
 S jedne strane agencije i kompanije će biti u mogućnosti da kreiraju i nude svoje usluge i aranžmane bilo pojedinačno (npr. smještaj u hotelu) ili u paketima 
 (npr. prijevoz + smještaj + rentani automobil + plan puta i sl), dok s druge strane korisnici će moći pregledati ponude te ih kupovati i kombinovati po 
 shopping-cart patternu. Biće omogućen two-factor authentication i opcija resetovanja passworda pri loginu putem mail-a. 
-Korisnici će posebno moći pregledati ponudama koje ističu za 24h. 
+Korisnici će posebno moći pregledati ponude koje ističu za 24h. 
 
 ## Akteri
 
