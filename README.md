@@ -33,17 +33,19 @@ Korisnici će na posebno istaknutom mjestu moći pregledati ponude koje ističu 
 ### Gost
 
 - pregled ponuda po parametrima 
+- kreiranje korisničkog naloga
 - gledanje profila registrovanih korisnika
 
 ### Korisnik
 
 - pregled ponuda po parametrima
-- uređivanje korisničkog profila i gledanje profila drugih korisnika
 - kreiranje svog putovanja na osnovu ponuda
-- objavljivanje sadržaja na svom profilu u vidu blogpostova i slika te komentarisanje / lajkovi na korisnički sadržaj drugih profila
 - među-korisnička interakcija
-- prijavljivanje neprimjerenog sadržaja korisnika
+- uređivanje korisničkog profila i gledanje profila drugih korisnika
+- objavljivanje sadržaja na svom profilu u vidu blogpostova i slika te komentarisanje / lajkovi na korisnički sadržaj drugih profila
 - ostavljanje ocjena / utisaka na agencije / kompanije
+- prijavljivanje neprimjerenog sadržaja korisnika
+- trajno brisanje naloga
 
 ### Administrator
 
