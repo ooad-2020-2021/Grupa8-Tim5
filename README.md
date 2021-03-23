@@ -17,8 +17,9 @@ Korisnici će na posebno istaknutom mjestu moći pregledati ponude koje ističu 
 ## Akteri
 
 1. Turističke agencije / kompanije
-2. Korisnici
-3. Administrator
+2. Gost
+3. Korisnik
+4. Administrator
 
 ## Funkcionalnosti
 
@@ -29,14 +30,19 @@ Korisnici će na posebno istaknutom mjestu moći pregledati ponude koje ističu 
 - kreiranje i uređivanje informativnih sajtova o svojim destinacijama
 - elementarni pregled finansijskog performansa kompanije na sajtu
 
-### Korisnici
+### Gost
+
+- pregled ponuda po parametrima 
+- gledanje profila registrovanih korisnika
+
+### Korisnik
 
 - pregled ponuda po parametrima
 - uređivanje korisničkog profila i gledanje profila drugih korisnika
 - kreiranje svog putovanja na osnovu ponuda
 - objavljivanje sadržaja na svom profilu u vidu blogpostova i slika te komentarisanje / lajkovi na korisnički sadržaj drugih profila
 - među-korisnička interakcija
-- prijavljivanje drugih korisnika za neprimjeren sadržaj
+- prijavljivanje neprimjerenog sadržaja korisnika i agencija / kompanija
 - ostavljanje ocjena / utisaka na agencije / kompanije
 
 ### Administrator
