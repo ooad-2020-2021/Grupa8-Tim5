@@ -42,7 +42,7 @@ Korisnici će na posebno istaknutom mjestu moći pregledati ponude koje ističu 
 - kreiranje svog putovanja na osnovu ponuda
 - objavljivanje sadržaja na svom profilu u vidu blogpostova i slika te komentarisanje / lajkovi na korisnički sadržaj drugih profila
 - među-korisnička interakcija
-- prijavljivanje neprimjerenog sadržaja korisnika i agencija / kompanija
+- prijavljivanje neprimjerenog sadržaja korisnika
 - ostavljanje ocjena / utisaka na agencije / kompanije
 
 ### Administrator
