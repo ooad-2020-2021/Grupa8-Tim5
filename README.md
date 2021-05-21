@@ -1,5 +1,7 @@
 # Grupa8 - Turistički Marketplace
 
+![](https://scontent.fsjj1-1.fna.fbcdn.net/v/t1.6435-9/188870242_3999484730144935_8814496710779846252_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=3VTvdrVq7pEAX_KBqAl&_nc_ht=scontent.fsjj1-1.fna&oh=0491b2606dda2bc3f0fd890fd49d2c45&oe=60CB4AA2)
+
 ## Tim
 
 1. [Ahmed Raščić](https://github.com/arascic1)
