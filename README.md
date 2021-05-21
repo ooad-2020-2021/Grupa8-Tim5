@@ -1,6 +1,6 @@
 # Grupa8 - Turistički Marketplace
 
-![](https://scontent.fsjj1-1.fna.fbcdn.net/v/t1.6435-9/188870242_3999484730144935_8814496710779846252_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=3VTvdrVq7pEAX_KBqAl&_nc_ht=scontent.fsjj1-1.fna&oh=0491b2606dda2bc3f0fd890fd49d2c45&oe=60CB4AA2)
+![](https://scontent.fsjj1-1.fna.fbcdn.net/v/t1.15752-9/173263169_1632781927110439_8970749724365118197_n.png?_nc_cat=110&ccb=1-3&_nc_sid=ae9488&_nc_ohc=ma16Ql4iQLEAX95_iFl&_nc_ht=scontent.fsjj1-1.fna&oh=6db7e8ae7a3a2f3b5327c1d566346e2b&oe=60CCE4D5)
 
 ## Tim
 
